@@ -1,4 +1,5 @@
 # movies_database
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+Movies Database App in Flutter
+>>>>>>> 7e177631ab1b4a1bb3f419451fb5f688bb2ac4de
