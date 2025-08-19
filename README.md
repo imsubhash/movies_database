@@ -1,20 +1,33 @@
-# movies_database
-<<<<<<< HEAD
+# 🎬 Movies Database App  
 
-A new Flutter project.
+A Flutter application to browse movies using **The Movie Database (TMDB) API**.  
+Built with clean architecture, offline support, and modern Flutter libraries.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features  
+- 🔥 **Trending Movies** – Browse what’s popular right now  
+- 🎥 **Now Playing** – See movies currently running in theatres  
+- 🔎 **Search** – Search movies by title  
+- ⭐ **Bookmarks** – Save favorite movies locally  
+- 📶 **Offline Support** – Uses SQLite caching when internet is unavailable  
+- ✅ **Provider State Management** – Reactive UI updates  
+- 🌐 **Dio Networking** – Handles API requests with error handling and retries  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack  
+- **Flutter** (Dart)  
+- **Provider** – State management  
+- **Dio** – Networking  
+- **SQLite** – Local persistence  
+- **Connectivity Plus** – Network detection  
+- **MVVM + Repository Pattern** – Clean architecture
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-Movies Database App in Flutter
->>>>>>> 7e177631ab1b4a1bb3f419451fb5f688bb2ac4de
+## 📸 Screenshots
+
+
+
+
+
+
